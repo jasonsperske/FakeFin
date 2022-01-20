@@ -1,0 +1,10 @@
+{
+  "name": "FakeFin",
+  "version": "1.0.0",
+  "description": "A fake financial institution, for all of your fake banking needs.",
+  "main": "index.js",
+  "repository": "https://github.com/jasonsperske/FakeFin.git",
+  "author": "Jason Sperske <jason@sperske.com>",
+  "license": "MIT",
+  "private": false
+}
